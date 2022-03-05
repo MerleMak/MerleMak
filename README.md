@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/MerleMak/MerleMak/master/readme_header.png "Header")
-
 # Hello, people! <img src="https://raw.githubusercontent.com/MerleMak/MerleMak/master/wave.gif" width="30px">
 
 I am currently learning how to code at the [neuefische coding bootcamp](https://www.neuefische.de/)
