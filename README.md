@@ -1,6 +1,6 @@
 # Hello, people! 
 
-I am currently learning how to code at the [neuefische coding bootcamp](https://www.neuefische.de/)
+I am working at [neuefische coding bootcamp](https://www.neuefische.de/) as a Junior Coach for Web Development
 
 [![MerleMak's github stats](https://github-readme-stats.vercel.app/api?username=MerleMak)](https://github.com/anuraghazra/github-readme-stats)
 
